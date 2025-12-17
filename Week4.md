@@ -1,12 +1,8 @@
 # Node.js progress
 
----
-
 > Just take your time
 
 ## Levels
-
----
 
 | Level | Weeks | Start |
 | ----- | ----- | ----- |
@@ -17,12 +13,10 @@
 
 ## Checklist
 
----
-
 - Level 0 :
-  - [ ] [HTML & CSS]()
-  - [ ] [Git & GitHub]()
-  - [ ] [Networking]()
+  - [x] [HTML & CSS]()
+  - [x] [Git & GitHub]()
+  - [x] [Networking]()
 - Level 1 :
-  - [ ] [JavaScript]()
+  - [x] [JavaScript]()
   - [ ] [Express.js]()
